@@ -1,7 +1,5 @@
 # python_scripts
 
-Simple python scripts:
-
 ## downloader
 Simple downloader script (uses URL to download). In fact is a clipped copy of 'curl'.
 
